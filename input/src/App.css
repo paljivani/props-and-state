@@ -1,0 +1,29 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: black;
+}
+.margin{
+  margin-top: 20%;
+  margin-left: 35%;
+}
+.margin input
+{
+  width: 400px;
+  height: 30px;
+  border: 2px solid yellowgreen;
+  color: white;
+  border-radius: 10px 0px 0px 10px;
+}
+button{
+  padding: 5px 20px 6px 20px;
+  background-color: yellowgreen;
+  border: 2px solid yellowgreen;
+  border-radius: 0px 10px 10px 0;
+}
+h2{
+  color: white;
+  padding-top: 20px;
+}
